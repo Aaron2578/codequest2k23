@@ -1,0 +1,150 @@
+body {
+	background: #000080;
+	font-size:32px;
+	font-family: arial;
+	color:#00ff00;
+}
+
+clgname {
+	font-size:20px;
+	color:#ff00ff;
+}
+
+
+headingadd {
+	font-size:26px;
+	color:#ff00ff ;
+}
+
+codequest2k23 {
+	font-size:20px;
+	color:#ffff00 ;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+te {
+	font-size:35px;
+	color: #ff0310;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ev1 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev1:hover {
+	background-color: green;
+	color: aqua;
+}
+
+ev2 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev2:hover {
+	background-color: green;
+	color: aqua;
+}
+
+ev3 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev3:hover {
+	background-color: green;
+}
+
+ev4 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev4:hover {
+	background-color: green;
+}
+
+
+nte {
+	font-size:35px;
+	color:#ff0310;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+ev5 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev5:hover {
+	background-color: green;
+}
+
+ev6 {
+	display: inline-block;
+	background-color: #00ff00;
+	padding: 20px;
+	width: 200px;
+	color: #ffffff;
+	text-align: center;
+	border: 4px double #cccccc;
+	border-radius: 100px;
+	font-size: 20px;
+	cursor: pointer;
+	margin: 5px;
+}
+
+ev6:hover {
+	background-color: green;
+}
+
+
+
+
